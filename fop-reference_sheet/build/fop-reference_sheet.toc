@@ -1,0 +1,40 @@
+\babel@toc {german}{}
+\contentsline {section}{\numberline {1}Definitionen}{1}{section.1}%
+\contentsline {section}{\numberline {2}Computerspeicher}{2}{section.2}%
+\contentsline {section}{\numberline {3}Datenstrukturen}{2}{section.3}%
+\contentsline {section}{\numberline {4}Klassen und Objekte}{3}{section.4}%
+\contentsline {subsection}{Klassen}{3}{section*.2}%
+\contentsline {subsection}{Objekte}{3}{section*.3}%
+\contentsline {section}{\numberline {5}Referenzen}{4}{section.5}%
+\contentsline {section}{\numberline {6}Enumerationen}{4}{section.6}%
+\contentsline {section}{\numberline {7}Methoden}{5}{section.7}%
+\contentsline {section}{\numberline {8}Interfaces}{6}{section.8}%
+\contentsline {section}{\numberline {9}Vererbung}{6}{section.9}%
+\contentsline {section}{\numberline {10}Zugriffsrechte und Packages}{7}{section.10}%
+\contentsline {section}{\numberline {11}Errors und Exceptions}{7}{section.11}%
+\contentsline {subsection}{Errors}{7}{section*.4}%
+\contentsline {subsection}{Exceptions}{8}{section*.5}%
+\contentsline {section}{\numberline {12}Javadoc}{9}{section.12}%
+\contentsline {section}{\numberline {13}JUnit-Tests}{9}{section.13}%
+\contentsline {section}{\numberline {14}Wrapper}{10}{section.14}%
+\contentsline {section}{\numberline {15}Generics, Wildcards und Comperator}{11}{section.15}%
+\contentsline {subsection}{Generics}{11}{section*.6}%
+\contentsline {subsection}{Wildcards}{12}{section*.7}%
+\contentsline {subsection}{Comparator}{12}{section*.8}%
+\contentsline {section}{\numberline {16}Collections, Iterator}{13}{section.16}%
+\contentsline {subsection}{Collections}{13}{section*.9}%
+\contentsline {subsection}{Iterator}{14}{section*.10}%
+\contentsline {section}{\numberline {17}Eigene LinkedList Klasse}{15}{section.17}%
+\contentsline {section}{\numberline {18}Optional}{16}{section.18}%
+\contentsline {section}{\numberline {19}Streams und Files}{17}{section.19}%
+\contentsline {subsection}{Streams}{17}{section*.11}%
+\contentsline {subsection}{Files}{18}{section*.12}%
+\contentsline {section}{\numberline {20}Racket: Streams}{19}{section.20}%
+\contentsline {section}{\numberline {21}Exkurs: Methodennamen als Lambda}{19}{section.21}%
+\contentsline {section}{\numberline {22}Zahlendarstellung}{20}{section.22}%
+\contentsline {section}{\numberline {23}Korrektheit von Software}{21}{section.23}%
+\contentsline {subsection}{Korrektheit auf einzelnen Abstraktionsebenen}{21}{section*.13}%
+\contentsline {subsection}{Korrektheit von Software}{22}{section*.14}%
+\contentsline {section}{\numberline {24}Effizienz von Software}{22}{section.24}%
+\contentsline {subsection}{Nebenaspekte der Effizienz}{22}{section*.15}%
+\contentsline {subsection}{Hauptaspekte der Effizienz}{23}{section*.16}%

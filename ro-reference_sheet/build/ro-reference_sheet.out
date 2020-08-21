@@ -1,0 +1,54 @@
+\BOOKMARK [1][-]{section.1}{Grundlagen\040der\040Rechnerorganisation}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Abstraktion}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Definition\040einiger\040Grundbegriffe}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Ein\040Rechnersystem\040aus\040der\040Praxis}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Speicherhierarchie}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Speicherorganisation\040-\040Adressierung\040und\040Endian}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Rechnersysteme\040-\040Verfeinert}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Speicher}{}% 8
+\BOOKMARK [2][-]{subsection.2.1}{Speicherhierarchie}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.2}{Speicher\040Kategorisierung}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{Speichertechnologien}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.4}{Speicherorganisation}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.5}{Lokalität}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.6}{Lokalität - Beispiele}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.7}{Cache}{section.2}% 15
+\BOOKMARK [1][-]{section.3}{Maschinennahe\040Programmierung}{}% 16
+\BOOKMARK [2][-]{subsection.3.1}{Phasen der Übersetzung}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.2}{Ausführung eines Programmes}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.3}{Compilieren,\040Assemblieren\040und\040Linken}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.4}{Kontrolloperationen\040-\040Statusbits}{section.3}% 20
+\BOOKMARK [1][-]{section.4}{Konzepte\040der\040maschinennahen\040Programmierung}{}% 21
+\BOOKMARK [2][-]{subsection.4.1}{Allgemeins}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.2}{Lesen\040und\040Schreiben}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.3}{Nutzen\040des\040Hauptspeichers}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.4}{Sprünge / Verzweigungen}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.5}{Datenfelder\040\(Arrays\)}{section.4}% 26
+\BOOKMARK [2][-]{subsection.4.6}{Unterprogramme}{section.4}% 27
+\BOOKMARK [2][-]{subsection.4.7}{Stacks}{section.4}% 28
+\BOOKMARK [2][-]{subsection.4.8}{Rekursion}{section.4}% 29
+\BOOKMARK [2][-]{subsection.4.9}{Zusammenfassung\040Unterprogrammaufrufe}{section.4}% 30
+\BOOKMARK [1][-]{section.5}{Gleitkommazahlen}{}% 31
+\BOOKMARK [2][-]{subsection.5.1}{Zahlendarstellung\040-\040Visualisierung}{section.5}% 32
+\BOOKMARK [2][-]{subsection.5.2}{Gleitkommazahlen\040nach\040ANSI/IEEE\040754}{section.5}% 33
+\BOOKMARK [2][-]{subsection.5.3}{Verarbeitung\040reeller\040Zahlen\040in\040ARM}{section.5}% 34
+\BOOKMARK [2][-]{subsection.5.4}{Studium der Datenblätter}{section.5}% 35
+\BOOKMARK [2][-]{subsection.5.5}{Gleitkommaeinheit}{section.5}% 36
+\BOOKMARK [1][-]{section.6}{Mirkoarchitektur}{}% 37
+\BOOKMARK [2][-]{subsection.6.1}{Terminologie}{section.6}% 38
+\BOOKMARK [2][-]{subsection.6.2}{Allgemeines}{section.6}% 39
+\BOOKMARK [2][-]{subsection.6.3}{Mikroarchitektur\040Prozessor}{section.6}% 40
+\BOOKMARK [2][-]{subsection.6.4}{Eintakt-Prozessor}{section.6}% 41
+\BOOKMARK [2][-]{subsection.6.5}{Eintakt\040vs\040Mehrtakt}{section.6}% 42
+\BOOKMARK [2][-]{subsection.6.6}{Mehrtakt-Prozessor}{section.6}% 43
+\BOOKMARK [2][-]{subsection.6.7}{Pipeline-Prozessor}{section.6}% 44
+\BOOKMARK [2][-]{subsection.6.8}{Hazards}{section.6}% 45
+\BOOKMARK [1][-]{section.7}{Single\040Instruction,\040Multiple\040Data\040SIMD}{}% 46
+\BOOKMARK [2][-]{subsection.7.1}{Anwendung\040und\040Nutzen}{section.7}% 47
+\BOOKMARK [2][-]{subsection.7.2}{Klassifikation\040von\040Flynn}{section.7}% 48
+\BOOKMARK [2][-]{subsection.7.3}{NEON}{section.7}% 49
+\BOOKMARK [2][-]{subsection.7.4}{NEON\040Programmierung}{section.7}% 50
+\BOOKMARK [1][-]{section.8}{Weiteres}{}% 51
+\BOOKMARK [2][-]{subsection.8.1}{Parallelisierung\040und\040OpenMP}{section.8}% 52
+\BOOKMARK [1][-]{section.9}{Streifzug\040durch\040die\040Geschichte}{}% 53
+\BOOKMARK [1][-]{section.10}{Ethik\040in\040der\040Informatik}{}% 54

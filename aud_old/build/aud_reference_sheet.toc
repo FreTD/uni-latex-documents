@@ -1,0 +1,79 @@
+\babel@toc {german}{}
+\contentsline {section}{\numberline {1}Begriffsdefinitonen}{1}{section.1}%
+\contentsline {paragraph}{Problem}{1}{section*.2}%
+\contentsline {paragraph}{Algorithmus}{1}{section*.3}%
+\contentsline {paragraph}{Datenstruktur}{1}{section*.4}%
+\contentsline {section}{\numberline {2}Pseudocode}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Aufbau}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Beispiele}{1}{subsection.2.2}%
+\contentsline {subsubsection}{Initiliasieiren von Variablen}{1}{section*.5}%
+\contentsline {subsubsection}{Schleifen und Anweisungen}{1}{section*.6}%
+\contentsline {subsubsection}{Arrays}{1}{section*.7}%
+\contentsline {section}{\numberline {3}Algorithmen}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Definition}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Anforderungen}{1}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Eigenschaften}{2}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Effizienz von Algorithmen}{2}{section.4}%
+\contentsline {section}{\numberline {5}Asymptotische Komplexität}{2}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Asymptotische Notation}{3}{subsection.5.1}%
+\contentsline {paragraph}{Komplexitätsfunktion}{3}{section*.8}%
+\contentsline {subsection}{\numberline {5.2}Schranken der asymptotischen Komplexität}{3}{subsection.5.2}%
+\contentsline {paragraph}{Best case}{3}{section*.9}%
+\contentsline {paragraph}{Average case}{3}{section*.10}%
+\contentsline {paragraph}{Worst case}{3}{section*.11}%
+\contentsline {subsection}{\numberline {5.3}Notationen und Definition}{3}{subsection.5.3}%
+\contentsline {paragraph}{$\Theta $-Notation}{3}{section*.12}%
+\contentsline {paragraph}{O-Notation}{4}{section*.13}%
+\contentsline {paragraph}{$\Omega $-Notation}{4}{section*.14}%
+\contentsline {section}{\numberline {6}Analyse von Divide-and-Conquer Algorithmen}{4}{section.6}%
+\contentsline {paragraph}{Methoden zur Lösung von Rekursionsgleichung}{5}{section*.15}%
+\contentsline {paragraph}{Substitutionsmethode}{5}{section*.16}%
+\contentsline {paragraph}{Rekursionsbaum-Methode}{5}{section*.17}%
+\contentsline {paragraph}{Mastermethode}{5}{section*.18}%
+\contentsline {paragraph}{Mastertheorem}{5}{section*.19}%
+\contentsline {section}{\numberline {7}Datenstrukturen: Theorie}{6}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Besipiele}{6}{subsection.7.1}%
+\contentsline {paragraph}{Begriffsunterscheidung}{6}{section*.20}%
+\contentsline {section}{\numberline {8}Datenstruktur: Stacks}{6}{section.8}%
+\contentsline {paragraph}{Operationen:}{6}{section*.21}%
+\contentsline {paragraph}{Darstellung als Array}{7}{section*.22}%
+\contentsline {section}{\numberline {9}Datenstruktur: Verkettete Listen}{7}{section.9}%
+\contentsline {section}{\numberline {10}Datenstruktur: Queues}{7}{section.10}%
+\contentsline {paragraph}{Darstellung als Array}{7}{section*.23}%
+\contentsline {section}{\numberline {11}Datenstruktur: Binärbüume}{8}{section.11}%
+\contentsline {paragraph}{Darstellung als Array}{8}{section*.24}%
+\contentsline {section}{\numberline {12}Sortieralgorithmen: Theorie}{8}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Warum möchte man Sortieren}{8}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Bedingungen}{8}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Vergleichskriterien}{9}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}Vergleichsverfahren}{9}{subsection.12.4}%
+\contentsline {subsubsection}{Korrektheit mittels Schleifeninvariante}{9}{section*.25}%
+\contentsline {section}{\numberline {13}Entwurfsprinzipien des Sortieren}{9}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Devide-and-Conquer}{9}{subsection.13.1}%
+\contentsline {paragraph}{Prinzip:}{9}{section*.26}%
+\contentsline {paragraph}{Divide:}{9}{section*.27}%
+\contentsline {paragraph}{Conquer:}{9}{section*.28}%
+\contentsline {paragraph}{Combine:}{10}{section*.29}%
+\contentsline {section}{\numberline {14}Sortieralgorithmus: InsertionSort}{10}{section.14}%
+\contentsline {paragraph}{Grundidee}{10}{section*.30}%
+\contentsline {paragraph}{Eigenschaften}{10}{section*.31}%
+\contentsline {paragraph}{Code}{10}{section*.32}%
+\contentsline {paragraph}{Beweis der Korrektheit}{10}{section*.33}%
+\contentsline {section}{\numberline {15}Sortieralgorithmus: BubbleSort}{10}{section.15}%
+\contentsline {paragraph}{Grundidee}{10}{section*.34}%
+\contentsline {paragraph}{Code}{11}{section*.35}%
+\contentsline {paragraph}{Analyse}{11}{section*.36}%
+\contentsline {section}{\numberline {16}Sortieralgorithmus: SelectionSort}{11}{section.16}%
+\contentsline {paragraph}{Grundidee}{11}{section*.37}%
+\contentsline {paragraph}{Code}{11}{section*.38}%
+\contentsline {section}{\numberline {17}Sortieralgorithmus: MergeSort}{12}{section.17}%
+\contentsline {paragraph}{Grundidee}{12}{section*.39}%
+\contentsline {paragraph}{Code}{12}{section*.40}%
+\contentsline {paragraph}{Analyse}{12}{section*.41}%
+\contentsline {paragraph}{Beweis der Korrektheit}{13}{section*.42}%
+\contentsline {section}{\numberline {18}Sortieralgorithmus: QuickSort}{13}{section.18}%
+\contentsline {paragraph}{Grundidee}{13}{section*.43}%
+\contentsline {paragraph}{Code}{14}{section*.44}%
+\contentsline {paragraph}{Korrektheit von Quicksort}{14}{section*.45}%
+\contentsline {section}{\numberline {19}Exkurs}{15}{section.19}%
+\contentsline {subsection}{\numberline {19.1}Totale Ordnung}{15}{subsection.19.1}%
