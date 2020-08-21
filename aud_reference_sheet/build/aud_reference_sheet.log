@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.4.25)  10 AUG 2020 14:35
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.4.25)  21 AUG 2020 12:48
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/aud_reference_sheet.tex
-(c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/aud_reference_sheet.tex
+**c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/aud_reference_sheet.tex
+(c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/aud_reference_sheet.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-04-06> (./reference_sheet_preamble.tex (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -510,7 +510,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \xmathstrut@dim=\dimen265
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 38.
-) (c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/build/aud_reference_sheet.aux)
+) (c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.aux)
 \openout1 = `aud_reference_sheet.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -586,7 +586,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
- (c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/build/aud_reference_sheet.out) (c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/build/aud_reference_sheet.out)
+ (c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.out) (c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.out)
 \@outlinefile=\write3
 \openout3 = `aud_reference_sheet.out'.
 
@@ -605,7 +605,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/build/aud_reference_sheet.toc (c:/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+) (c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.toc (c:/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ) [1
 
@@ -1411,7 +1411,7 @@ $[]$   $[]$
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2148.
  [39]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 2148.
- (c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/build/aud_reference_sheet.aux)
+ (c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2148.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2148.
 Package rerunfilecheck Info: File `aud_reference_sheet.out' has not changed.
@@ -1420,11 +1420,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2148.
  ) 
 Here is how much of TeX's memory you used:
  17057 strings out of 479417
- 262429 string characters out of 5888071
+ 262493 string characters out of 5888071
  561041 words of memory out of 5000000
  34153 multiletter control sequences out of 15000+600000
  571462 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 48i,22n,47p,403b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,22n,47p,407b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/build/aud_reference_sheet.xdv (41 pages, 165648 bytes).
+Output written on c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv (41 pages, 165648 bytes).
