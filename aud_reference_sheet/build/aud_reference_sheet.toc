@@ -183,5 +183,8 @@
 \contentsline {section}{\numberline {8}Graphen}{38}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Allgemein}{38}{subsection.8.1}%
 \contentsline {subsubsection}{Endlich gerichtete Graphen}{38}{section*.138}%
+\contentsline {subsubsection}{Zusamenhängende Graphen}{38}{section*.139}%
+\contentsline {subsubsection}{Subgraphen}{38}{section*.140}%
+\contentsline {subsubsection}{Adjazenzmatrix}{38}{section*.141}%
 \contentsline {section}{\numberline {9}Exkurs}{39}{section.9}%
 \contentsline {subsection}{\numberline {9.1}Totale Ordnung}{39}{subsection.9.1}%

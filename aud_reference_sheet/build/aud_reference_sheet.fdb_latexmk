@@ -1,17 +1,17 @@
 # Fdb version 3
-["xdvipdfmx"] 1598006914 "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv" "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.pdf" "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet" 1598006917
+["xdvipdfmx"] 1598095559 "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv" "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.pdf" "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet" 1598095561
   "c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/build/aud_reference_sheet.xdv" 0 -1 0 ""
-  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv" 1598006914 165648 f99ae25a9c66a3869d6ae62e0178e568 "xelatex"
+  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv" 1598095559 167436 197cd4277314e63bcda6dfed9ce2e9ba "xelatex"
   (generated)
-  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.pdf"
   "c:/Users/Admin/Documents/texmaker/projects/aud_reference_sheet/build/aud_reference_sheet.pdf"
-["xelatex"] 1598006911 "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/aud_reference_sheet.tex" "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv" "aud_reference_sheet" 1598006917
-  "aud_reference_sheet.tex" 1598006908 76406 aba286eade2d1f3e68aa313ab1e74463 ""
-  "build/aud_reference_sheet.aux" 1598006914 22784 cf9041f0289f9736e0b630335ebe0f64 "xelatex"
-  "build/aud_reference_sheet.out" 1598006914 3164 ecd3cfe63e09cc91513fb10c180739a1 "xelatex"
-  "build/aud_reference_sheet.toc" 1598006914 12909 c3e355da715d3a58fba5afff18a47817 "xelatex"
-  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/aud_reference_sheet.tex" 1598006908 76406 aba286eade2d1f3e68aa313ab1e74463 ""
-  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.aux" 1598006914 22784 cf9041f0289f9736e0b630335ebe0f64 ""
+  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.pdf"
+["xelatex"] 1598095557 "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/aud_reference_sheet.tex" "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv" "aud_reference_sheet" 1598095560
+  "aud_reference_sheet.tex" 1598095556 77694 590580c7fc9dfb60bbdf0073dc6b22e6 ""
+  "build/aud_reference_sheet.aux" 1598095559 23108 13dc5cdadc97bbd12df6bb8b84ea4dc1 "xelatex"
+  "build/aud_reference_sheet.out" 1598095559 3164 ecd3cfe63e09cc91513fb10c180739a1 "xelatex"
+  "build/aud_reference_sheet.toc" 1598095559 13110 c8d9e845262197593e641949bf282e4a "xelatex"
+  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/aud_reference_sheet.tex" 1598095556 77694 590580c7fc9dfb60bbdf0073dc6b22e6 ""
+  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.aux" 1598095559 23108 13dc5cdadc97bbd12df6bb8b84ea4dc1 ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1587808898 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1587811837 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1587805004 1004 54797486969f23fa377b128694d548df ""
@@ -154,6 +154,7 @@
   "files/AVLRebalanceCase02_1.jpg" 1596370008 62276 836aaa217650ebec837a4a5a126a737d ""
   "files/AVLRebalanceCase02_2.jpg" 1596370042 112776 a5c1a429651a1b07d5b179e86095c51a ""
   "files/AVLRebalanceCase034.jpg" 1596370586 101396 a43093331ba88e8e00037bc5a5c984ae ""
+  "files/Adjazenzmatrix.jpg" 1598091512 98827 93e2531796c687b827c5eaf2c6fdecfa ""
   "files/BBCharackterisitk.jpg" 1596029415 38212 0d20f220b8c7c83731ff569fd3b6dec7 ""
   "files/BBInorder.jpg" 1596018993 68113 c56dea13273823a15dd424c08347e42d ""
   "files/BBInorderErgebniss.jpg" 1596019010 13073 5c74f877ac472c3619bc2534c9e1c697 ""
@@ -256,10 +257,10 @@
   "files/Stack_Operationen_Code.jpg" 1589552003 148825 87fc9b2393f4582e99ff73ff62fe415b ""
   "reference_sheet_preamble.tex" 1596391042 1644 2b45cd2f096f7837ed906517f9008108 ""
   (generated)
-  "build/aud_reference_sheet.toc"
-  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.log"
-  "build/aud_reference_sheet.log"
-  "build/aud_reference_sheet.aux"
-  "build/aud_reference_sheet.xdv"
   "build/aud_reference_sheet.out"
+  "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.log"
+  "build/aud_reference_sheet.toc"
+  "build/aud_reference_sheet.xdv"
+  "build/aud_reference_sheet.aux"
+  "build/aud_reference_sheet.log"
   "c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv"

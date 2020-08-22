@@ -2132,7 +2132,43 @@
 					\includegraphics[scale=0.4]{GraphenGerichteterGraph.jpg}
 				\end{center}
 			\end{minipage}
+			 \vspace{1cm}
 
+
+		\subsubsection{Zusamenhängende Graphen}
+			\begin{itemize}
+				\item[-] Ungerichtete Graphen sind \textbf{zusammenhängend} wenn jeder Knoten
+					von jedem anderem Knoten aus erreichbar ist
+				\item[-] Gerichtete Graphen sind \textbf{stark zusammenhängend} wenn jeder 
+					Knoten von jedem anderen aus erreichabr ist
+			\end{itemize}
+			\vspace{0.6cm}
+
+
+		\subsubsection{Subgraphen}
+			\begin{center}
+				Ein Graph $G' = (V', E')$ ist ein Subgraph des Graphen $G = (V, E)$ genau dann
+				wenn $V' \subseteq V$ und $E' \subseteq E$
+			\end{center}
+			\vspace{0.6cm}
+
+
+		\subsubsection{Adjazenzmatrix}
+			\begin{minipage}[t]{0.6\textwidth}
+				\begin{itemize}
+					\item Adjazenzmatritzen sind eine Möglichkeit Kanten in einem Graph anzugeben
+					\item Der Eintrag $a^{(m)}_{i,j}$ an der $i$-ten Zeile und $j$-ten Spalte
+						der $m$-ten Potenz $A^m$ der Adjazenzmatrix $A$ eines Graphen gibt die Anzahl
+						der Wege an, die von Knoten $i$ zu Knoten $j$ entlang von genau $m$ Kanten 
+						fürhen $(m\geq0)$
+					\item Dabei ist $A^m$ gegeben durch: $A^{m+1} = A^m \times A$ 
+				\end{itemize}
+			\end{minipage}
+			\begin{minipage}[t]{0.35\textwidth}
+				\begin{center}
+					\includegraphics[scale=0.35]{Adjazenzmatrix.jpg}
+				\end{center}
+			\end{minipage}
 
 \newpage
 \section{Exkurs}

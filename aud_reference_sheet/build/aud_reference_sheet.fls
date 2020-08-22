@@ -374,6 +374,7 @@ INPUT ./files/RBTDeletionCase04.jpg
 INPUT ./files/RBTDeletionCase05.jpg
 INPUT ./files/RBTCasesGraph.jpg
 INPUT ./files/GraphenGerichteterGraph.jpg
+INPUT ./files/Adjazenzmatrix.jpg
 INPUT c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.aux
 INPUT c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.out
 INPUT c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.out
