@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.4.25)  23 AUG 2020 23:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.4.25)  25 AUG 2020 13:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1415,23 +1415,44 @@ Overfull \hbox (53.60733pt too wide) in paragraph at lines 2169--2170
  []
 
 [38]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2186.
- [39]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2186.
+File: ./files/BFS_Code.jpg Graphic file (type bmp)
+<./files/BFS_Code.jpg>
+
+Overfull \hbox (17.05403pt too wide) in paragraph at lines 2186--2187
+ [] 
+ []
+
+File: ./files/BFS_CodeSample01.jpg Graphic file (type bmp)
+<./files/BFS_CodeSample01.jpg>
+File: ./files/BFS_CodeSample02.jpg Graphic file (type bmp)
+<./files/BFS_CodeSample02.jpg>
+File: ./files/BFS_CodeSample03.jpg Graphic file (type bmp)
+<./files/BFS_CodeSample03.jpg>
+File: ./files/BFS_CodeSample04.jpg Graphic file (type bmp)
+<./files/BFS_CodeSample04.jpg>
+
+Overfull \hbox (6.999pt too wide) in paragraph at lines 2184--2198
+$[]$   $[]$ 
+ []
+
+[39]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2219.
+ [40]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2219.
  (c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2186.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2186.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2219.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2219.
 Package rerunfilecheck Info: File `aud_reference_sheet.out' has not changed.
-(rerunfilecheck)             Checksum: ECD3CFE63E09CC91513FB10C180739A1;3164.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2186.
+(rerunfilecheck)             Checksum: A0C6D1DEE51AFFFB1AB13D1DEB1EC7DF;3237.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2219.
  ) 
 Here is how much of TeX's memory you used:
- 17063 strings out of 479417
- 262645 string characters out of 5888071
- 561041 words of memory out of 5000000
- 34158 multiletter control sequences out of 15000+600000
+ 17093 strings out of 479417
+ 263417 string characters out of 5888071
+ 561125 words of memory out of 5000000
+ 34183 multiletter control sequences out of 15000+600000
  571462 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  48i,22n,47p,407b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv (41 pages, 167436 bytes).
+Output written on c:/Users/Admin/Documents/texmaker/uni-projects/aud_reference_sheet/build/aud_reference_sheet.xdv (42 pages, 170180 bytes).

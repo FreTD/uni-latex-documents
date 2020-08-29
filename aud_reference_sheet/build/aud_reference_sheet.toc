@@ -186,5 +186,9 @@
 \contentsline {subsubsection}{Zusamenhängende Graphen}{38}{section*.139}%
 \contentsline {subsubsection}{Subgraphen}{38}{section*.140}%
 \contentsline {subsubsection}{Adjazenzmatrix}{38}{section*.141}%
-\contentsline {section}{\numberline {9}Exkurs}{39}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Totale Ordnung}{39}{subsection.9.1}%
+\contentsline {subsection}{\numberline {8.2}Breadth-First Search}{39}{subsection.8.2}%
+\contentsline {subsubsection}{Idee}{39}{section*.142}%
+\contentsline {subsubsection}{Code mit Beispiel}{39}{section*.143}%
+\contentsline {subsubsection}{Kürzeste Pfade ausgeben}{39}{section*.144}%
+\contentsline {section}{\numberline {9}Exkurs}{40}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Totale Ordnung}{40}{subsection.9.1}%
